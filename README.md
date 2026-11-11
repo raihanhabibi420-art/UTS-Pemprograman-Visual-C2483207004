@@ -12,7 +12,7 @@ Mata Kuliah: Pemrograman Visual
 
 Nama Aplikasi: Kasir Kantin Kampus
 
-Dosen Pengampu	:	Taofik Muhammad, M.Kom
+Dosen Pengampu	:	Taofik Muhammad, S.PD,M.KOM
 
 Tanggal : 18 November 2026
 
