@@ -3,10 +3,19 @@
 Aplikasi Kasir Kantin Kampus
 
 Nama: M Raihan Habibi
+
 NIM: C2483207004
+
 Kelas: PTI 5
+
 Mata Kuliah: Pemrograman Visual
+
 Nama Aplikasi: Kasir Kantin Kampus
+
+Dosen Pengampu	:	Taofik Muhammad, M.Kom
+
+Tanggal : 18 November 2026
+
 
 Deskripsi Aplikasi
 
